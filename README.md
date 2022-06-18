@@ -5,6 +5,9 @@ For more info contact:
     - [Twitter](https://twitter.com/saraivinha98)
     - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-saraiva-5103721b9/)
 
+This idea came from this guy project!!!
+Visit https://www.youtube.com/watch?v=7Rkib_fvowE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
