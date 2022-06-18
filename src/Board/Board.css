@@ -1,0 +1,63 @@
+.board{
+    outline: 2px solid rgb(134, 154, 189);
+}
+
+.row{
+    height: 35px;
+}
+
+.cell{
+    width: 35px;
+    height: 35px;
+    outline: 1px solid aqua;
+    display: inline-block;
+}
+
+.snake-cell{
+    background-color: aquamarine;
+    outline: 1px solid cadetblue;
+}
+
+.food-cell{
+    background-color: brown;
+}
+
+.special-cell{
+    background-color: plum;
+}
+
+.buttons{
+  background: aquamarine;
+  border: 1px solid rgb(101, 255, 204);
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  margin-bottom: 20px;
+}
+
+.buttons:hover,
+.buttons:active{
+  background-color: initial;
+  background-position: 0 0;
+  color: rgb(67, 186, 146);
+}
+
+.buttons:active{
+  opacity: .5;
+}

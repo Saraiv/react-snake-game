@@ -1,0 +1,10 @@
+snake-game
+- Board done.
+- Snake done.
+- Make game look nice done.
+- Keys done.
+- Movement done.
+- Points/Food done.
+- Death done.
+- Fix bugs
+- Game start/reset 
