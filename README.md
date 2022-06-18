@@ -1,3 +1,10 @@
+# Created by Saraiva
+
+For more info contact:
+    - [Email](mainsaraiva@gmail.com)
+    - [Twitter](https://twitter.com/saraivinha98)
+    - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-saraiva-5103721b9/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
